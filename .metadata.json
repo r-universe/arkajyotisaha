@@ -1,0 +1,10 @@
+[
+  {
+    "package": "BRISC",
+    "oncran": true
+  },
+  {
+    "package": "RandomForestsGLS",
+    "oncran": true
+  }
+]
