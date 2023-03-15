@@ -1,10 +1,10 @@
 [
   {
-    "package": "RandomForestsGLS",
+    "package": "BRISC",
     "oncran": true
   },
   {
-    "package": "BRISC",
+    "package": "RandomForestsGLS",
     "oncran": true
   }
 ]

@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "RandomForestsGLS"]
-	path = RandomForestsGLS
-	url = https://github.com/arkajyotisaha/randomforestsgls
-	shallow = true
-	registered = true
 [submodule "BRISC"]
 	path = BRISC
 	url = https://github.com/arkajyotisaha/brisc
+	shallow = true
+	registered = true
+[submodule "RandomForestsGLS"]
+	path = RandomForestsGLS
+	url = https://github.com/arkajyotisaha/randomforestsgls
 	shallow = true
 	registered = true
